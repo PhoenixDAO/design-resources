@@ -15,7 +15,7 @@ This repository contains all the design resources of PhoenixDAO from inception t
 Visit our website to check our project.
 [PhoenixDAO](https://phoenixdao.io)
 
-## Created by:
+## Initial PhoenixDAO Product Designs:
 
-All designs created and pushed by:
+All initial designs created and pushed by:
 [Codemathics](https://twitter.com/codemathics)
